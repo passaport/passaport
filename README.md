@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on **a new project.**
 
-<h3 align="left">Connect with me: danvaly23@gmail.com</h3>
 <p align="left">
 </p>
 
