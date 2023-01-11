@@ -70,7 +70,7 @@ hobbies: ["Gaming", "Cinema", "Comedy"]
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 <p align="center">
-  <a href="https://github.com/thepiyushmalhotra">
+  <a href="https://github.com/passaport">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=passaport&theme=noctis_minimus&show_icons=true" />
   </a>
 </p>
