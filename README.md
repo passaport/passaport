@@ -39,7 +39,7 @@ fields_of_interests:
   ]
   
 currently_learning: ["Blazor, Javascript and Parallel Threading"]
-2023 Goals: ["Finish the project that i currently work, Improve my skills"]
+goals_2023: ["Finish the project that i currently work, Improve my skills"]
 hobbies: ["Gaming", "Cinema", "Comedy"]
 ```
   
