@@ -38,8 +38,8 @@ fields_of_interests:
     "Mobile Development",
   ]
   
-currently_learning: ["Blazor, Javascript and Parallel Threading"]
-goals_2023: ["Finish the project that i currently work, Improve my skills"]
+currently_learning: ["Blazor,Unity NetCode, Parallel Threading and JavaScript"]
+goals_2023: ["Finish the project that i currently work,Publish a game on android, Improve my skills"]
 hobbies: ["Gaming", "Cinema", "Comedy"]
 ```
   
