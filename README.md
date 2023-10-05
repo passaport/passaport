@@ -75,7 +75,7 @@ hobbies: ["Gaming", "Cinema", "Comedy"]
   </a>
 </p>
 <p align="center">
-  <img height="180em" src="https://github.com/passaport/passaport/blob/main/github-contribution-grid-snake.svg" />
+  <img height="180em" src="https://github.com/passaport/passaport/blob/main/img/github-contribution-grid-snake.svg" />
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
