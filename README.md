@@ -31,15 +31,16 @@ education:
 
 fields_of_interests:
   [
+    "Windows Application Development",
     "Web Development",
     "Game Development",
+    "Mobile Development",
     "Data Science",
     "Machine Learning",
-    "Mobile Development",
   ]
   
-currently_learning: ["Blazor,Unity NetCode, Parallel Threading and JavaScript"]
-goals_2023: ["Finish the project that i currently work,Publish a game on android, Improve my skills"]
+currently_learning: ["HTML and CSS and JS"]
+goals_2023: ["Improve my skills | Create projects"]
 hobbies: ["Gaming", "Cinema", "Comedy"]
 ```
   
