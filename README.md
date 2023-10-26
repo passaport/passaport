@@ -39,7 +39,7 @@ fields_of_interests:
     "Machine Learning",
   ]
   
-currently_learning: ["HTML and CSS and JS"]
+currently_learning: ["HTML,CSS and JS"]
 goals_2023: ["Improve my skills | Create projects"]
 hobbies: ["Gaming", "Cinema", "Comedy"]
 ```
